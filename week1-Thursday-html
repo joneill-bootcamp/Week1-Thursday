@@ -1,0 +1,74 @@
+<!DOCTYPE> 
+
+<html>
+
+<head>
+    <title>This is my title</title>
+</head>
+
+<body>
+    <h1>This is a Heading 1</h1>
+    <img src = "https://thehappypuppysite.com/wp-content/uploads/2017/07/Copy-of-Westie-A-Guide-To-The-West-Highland-White-Terrier-HP-long.jpg">
+    <a href="https://www.google.com" target="_blank"> <h2>This will redirect somewhere<h2> </a>
+    <a href="https://www.progress.com" target="_blank"> <b>This is a bold link to new tab</b> </a>
+    <br>
+    <a href="#" target="_blank"> This link goes nowhere </a>
+    <br>
+    <h2>This is an ordered list for making a Sandwich<h2>
+    <br>
+    <ol type = "1"> 
+       <li>Take two slices of bread</li>
+       <li>Put butter on them</li>
+       <li>Put ham on first slice</li>
+       <li>Put chese on other slice</li>
+       <li>Flip first slice onto second slice!</li>
+       <li>Done!</li> 
+    </ol>
+    <br>
+    <h2>This is an unordered list of bands</h2>
+    <ul>
+      <li>Queen</li>
+      <li>Dire Straights</li>
+      <li>Clannad</li>
+      <li>Ice House</li>
+      <li>John Farnahm</li>
+    </ul>
+
+    </p>
+    <h2>This is a table of animals </h2>
+    <br>
+    <table style = "width:100%">
+      <tr>
+         <th>Animal Class</th>
+         <th>Animal name</th>
+      </tr>
+         <td>Dog</td>
+         <td>Westie</td>
+      <tr>
+         <td>Cat</td>
+         <td>Tiddles</td>
+      </tr>
+      <tr>
+         <td>Fish</td>
+         <td>Mr Fishy</td>
+      </tr>
+      <tr>
+         <td>Bird</td>
+         <td>Peewee</td>
+      </tr>
+      <tr>
+         <td>Rabbit</td>
+         <td>Harvey</td>
+      </tr>
+
+    </table>
+    </p>
+    <h2> Here's a westie video! <h2>
+    <br>
+    <iframe width="640" height="480"
+       src="https://www.youtube.com/?v=pby0YI8FdKc"
+    </iframe>
+    
+</body>
+
+</html>
